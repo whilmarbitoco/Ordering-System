@@ -1,1 +1,5 @@
 __pycache__
+bin/__pycache__
+.replit
+replit.nix
+*.zip

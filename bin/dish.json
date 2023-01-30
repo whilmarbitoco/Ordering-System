@@ -1,0 +1,19 @@
+{
+  "dish": [
+    {
+      "id": 1,
+      "name": "Adobo",
+      "price": 40
+    },
+    {
+      "id": 2,
+      "name":"Fish fillet",
+      "price": 50
+    },
+    {
+      "id": 3,
+      "name": "Calderita",
+      "price": 30
+    }
+  ]
+}
